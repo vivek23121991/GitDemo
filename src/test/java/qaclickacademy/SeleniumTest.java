@@ -24,5 +24,12 @@ public class SeleniumTest {
 		System.out.println("openWebURL");
 		System.out.println("openBrowser");
 	}
+	
+	@Test
+	public void openWebURL3()
+	{
+		System.out.println("openWebURL");
+		System.out.println("openBrowser");
+	}
 
 }
