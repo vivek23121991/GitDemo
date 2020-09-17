@@ -8,6 +8,7 @@ public class SeleniumTest {
 	public void openWebURL()
 	{
 		System.out.println("openWebURL");
+		System.out.println("openBrowser");
 	}
 
 }
