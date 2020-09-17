@@ -9,5 +9,19 @@ public class AppiumTest {
 	{
 		System.out.println("openMobileApp");
 	}
+	
+	@Test
+	public void openMobileApp1()
+	{
+		System.out.println("openMobileApp");
+	}
+
+	
+	@Test
+	public void openMobileApp2()
+	{
+		System.out.println("openMobileApp");
+	}
+
 
 }
